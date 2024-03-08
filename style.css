@@ -3,7 +3,8 @@ body {
   }
 
 .container {
-  padding-top: 30px;
+  padding: 40px;
+  background-color: hotpink;
 } 
   
 h1 {
